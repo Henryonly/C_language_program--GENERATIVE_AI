@@ -1,0 +1,3 @@
+DEVICE=C:\BORLANDC\BIN\DPMI16BI.OVL  ; 启用DPMI扩展内存支持
+STACKS=32000000,40960000000                       ; 设置堆栈大小
+HEAPS=10240000000                           ; 设置堆大小
