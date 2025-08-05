@@ -2,7 +2,7 @@
 
 ## A Brief Introduction
 
-🥰We built an AI named Xiao Zhi mostly based on C language.Challenges are met because of low performance of IDE we used:BorlandC.To solve this problem,we created new methods to create conversations!🤯
+🥰We've built an AI named Xiao Zhi mostly based on C language.Challenges are met because of low performance of IDE we used:BorlandC.To solve this problem,we created new methods to create conversations!🤯
 
 Firstly we use MI to cut a sentence into pieces.The training data and training codes are kept in the folder \train.Most of our training data is from zhihu and ruozhiba.🤣Here's how it runs.
 
