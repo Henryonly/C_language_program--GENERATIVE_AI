@@ -26,7 +26,7 @@ We then built a file system,using the file system we optimised time complexity,i
 
 🤩As for images,we use SVGA--65536 colors, coding Bresenham algorithm, Bezier curve and procedure for inside filling.That sets the base for drawing.We then drew some images using anything above.Then we created algorithms to overlay,spin,resize,change color,move and choose the curve to be filled or not.If you choose to open the overlapping mode,it will overlap and if you switch it off,it won't.We also have an option to clear off the image.The images can be changed into many modes.
 
-😜We have other Easter Eggs such as an ability to calculate decimals,warn a question to be raised beforehand,the first BFS and its query stack related(but failed due to low capacity of our IDE),a warning for bad languages and so on.You can explore all of these by yourself!
+😜We have other Easter Eggs such as an ability to calculate decimals,warnings of a question to be raised beforehand,the first BFS and its query stack related(but failed due to low capacity of our IDE),a warning for bad languages and so on.You can explore all of these by yourself!
 
 Wish you a good time!😘
 
@@ -38,4 +38,3 @@ link:https://pan.baidu.com/s/1yZDQWLV9KC1DUS9hJFFucQ
 
 password:hz5j
 
-Wish you a good time talking with our AI!
